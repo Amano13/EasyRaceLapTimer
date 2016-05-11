@@ -2,11 +2,11 @@
 
 ## WIFI AccessPoint
 
-    SSID: EasyRaceLapTimer
-    Password: 0123456789
+    SSID: LapTimer
+    Password: 1234567890
 
 ## Host-IP
 
 Use the following URL to connect with your mobile phone or whatever device you are using
 
-     http://192.168.42.1
+     http://192.168.11.10
