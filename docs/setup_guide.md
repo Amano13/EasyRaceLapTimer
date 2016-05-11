@@ -154,7 +154,7 @@ Find the line that begins with "#interface" and edit it as follows:
 
 In the same file, find the line that begins with "#dhcp-range" and edit it as follows:
 
-    dhcp-range=192.168.42.2,192.168.42.100,255.255.255.0,12h    
+    dhcp-range=192.168.11.101,192.168.11.200,255.255.255.0,12h    
 
 Save and close the file.
 
